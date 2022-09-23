@@ -71,7 +71,7 @@ ul {
 }
 .custom-radio-white {
 	position: relative;
-	Vertical-align: text-center;
+	vertical-align: text-center;
 	width: 16px;
 	height: 16px;
 	display: inline-block;
@@ -81,7 +81,7 @@ ul {
 }
 .custom-radio-brown {
 	position: relative;
-	Vertical-align: text-center;
+	vertical-align: text-center;
 	width: 16px;
 	height: 16px;
 	display: inline-block;
